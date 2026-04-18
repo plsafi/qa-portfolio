@@ -1,5 +1,3 @@
-#Notes
-
 ## Learning Notes
 
 What I learned:
