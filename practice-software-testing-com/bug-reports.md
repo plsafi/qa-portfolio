@@ -23,10 +23,10 @@
 | 19 | UI           | Missing search bar/icon            | Check header              | Search available             | Missing                       | Medium   | Medium   |
 | 20 | UI           | Typo "Sorth"                       | Check sort dropdown       | "Sort"                       | "Sorth"                       | Low      | Low      |
 | 21 | UI           | Typo "Serch"                       | Check button              | "Search"                     | "Serch"                       | Low      | Low      |
-| 22 | UI           | Typo "Reltded products"            | Product page              | Correct text                 | Typo                          | Low      | Low      |
+| 22 | UI           | Typo "Reltded products"            | Product page              | "Related products"           | Typo                          | Low      | Low      |
 | 23 | Layout       | Add to cart button broken (Chrome) | Open product page         | Proper layout                | Misaligned                    | Medium   | Medium   |
 | 24 | Layout       | Product names right-aligned        | Category page             | Proper alignment             | Misaligned                    | Low      | Low      |
-| 25 | Layout       | Title alignment issues             | Firefox/Edge              | Proper alignment             | Misaligned                    | Low      | Low      |
+| 25 | Layout       | Title alignment issues             | Firefox                   | Proper alignment             | Misaligned                    | Low      | Low      |
 | 26 | Layout       | Buttons overlap                    | Chrome                    | Proper spacing               | Overlapping                   | Medium   | Medium   |
 | 27 | Layout       | Badge text color incorrect         | Check UI                  | White text                   | Black text                    | Low      | Low      |
 | 28 | Layout       | No text wrapping                   | Firefox                   | Text wraps                   | Doesn't wrap                  | Medium   | Medium   |
